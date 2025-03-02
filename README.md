@@ -25,7 +25,7 @@ You can install the TODO CLI application using one of the following method:
 
 1. Clone the repository:
 ```bash
-git clone git@github.com:vinayakatk/Todo_cli.git
+git clone git@github.com:Vinayakatk/Todo_cli.git
 cd todo_cli
 ```
 
